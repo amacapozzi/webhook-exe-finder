@@ -1,0 +1,10 @@
+R:\Developement\exe-webhook-finder\exe-webhook-finder\bin\Debug\exe-webhook-finder.exe.config
+R:\Developement\exe-webhook-finder\exe-webhook-finder\bin\Debug\exe-webhook-finder.exe
+R:\Developement\exe-webhook-finder\exe-webhook-finder\bin\Debug\exe-webhook-finder.pdb
+R:\Developement\exe-webhook-finder\exe-webhook-finder\obj\Debug\exe-webhook-finder.csproj.AssemblyReference.cache
+R:\Developement\exe-webhook-finder\exe-webhook-finder\obj\Debug\exe-webhook-finder.csproj.CoreCompileInputs.cache
+R:\Developement\exe-webhook-finder\exe-webhook-finder\obj\Debug\exe-webhook-finder.exe
+R:\Developement\exe-webhook-finder\exe-webhook-finder\obj\Debug\exe-webhook-finder.pdb
+R:\Developement\exe-webhook-finder\exe-webhook-finder\bin\Debug\Newtonsoft.Json.dll
+R:\Developement\exe-webhook-finder\exe-webhook-finder\bin\Debug\Newtonsoft.Json.xml
+R:\Developement\exe-webhook-finder\exe-webhook-finder\obj\Debug\exe-webh.A770D353.Up2Date
