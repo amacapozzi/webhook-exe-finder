@@ -14,9 +14,12 @@ public class ExeLinkParser
 
     private static void Main(string[] args)
     {
+        if (args.Length == 0) return;
+
+        string filePath = args[0];
+
         try
         {
-            string filePath = "C:\\Users\\Student\\Downloads\\ProcessWatcher-master\\ProcessWatcher-master\\ProcessWatcher\\bin\\Debug\\ProcessWatcher.exe";
             string foundWebhook = FindWebhookUrl(filePath);
 
             while (foundWebhook != null)
@@ -30,9 +33,12 @@ public class ExeLinkParser
 
                 Console.WriteLine("Message sended");
             }
+
+            Console.WriteLine("Webhook not found");
         }
-        catch
+        catch (Exception e)
         {
+            Console.WriteLine(e.ToString());
         }
 
         Console.ReadKey();
